@@ -1,6 +1,6 @@
 # My Dotfiles
 
-This repository contains my personal dotfiles and configurations for a productive development environment . It includes setups for Neovim, TMUX, Ghostty, and the Powerlevel10k prompt theme suited for the catppuccin theme .
+This repository contains my personal dotfiles and configurations for a productive development environment . It includes setups for Neovim, TMUX, Ghostty, and the Powerlevel10k prompt suited for the catppuccin theme.
 
 ---
 
